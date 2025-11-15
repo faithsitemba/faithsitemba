@@ -10,8 +10,7 @@ https://faithsitemba.github.io
 ---
 
 ## Download My CV  
-[Download CV (PDF)](https://raw.githubusercontent.com/faithsitemba/faithsitemba.github.io/main/faith%20moraa%20sitemba%20cv.pdf)
-
+[Download CV (PDF)](https://raw.githubusercontent.com/faithsitemba/faithsitemba/main/FAITH%20MORAA%20SITEMBA%20CV.pdf)
 ---
 
 ## About Me  
