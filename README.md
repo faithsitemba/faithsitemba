@@ -10,8 +10,7 @@ https://faithsitemba.github.io
 ---
 
 ## Download My CV  
-Download the latest version of my CV using the link below:  
-https://raw.githubusercontent.com/faithsitemba/faithsitemba.github.io/main/faith%20moraa%20sitemba%20cv.pdf
+[Download CV (PDF)](https://raw.githubusercontent.com/faithsitemba/faithsitemba.github.io/main/faith%20moraa%20sitemba%20cv.pdf)
 
 ---
 
