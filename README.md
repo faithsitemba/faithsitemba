@@ -1,6 +1,7 @@
 <h1 align="center">Hi , I'm Faith Moraa Sitemba</h1>
 <h3 align="center">Aspiring IT Professional | Python Beginner | Tech Enthusiast</h3>
   About Me  
+
 I am an aspiring IT professional passionate about technology, problem-solving, and continuous learning.  
 I enjoy working with computers, exploring programming, and building simple but meaningful projects as I grow my skills.  
 
