@@ -1,61 +1,85 @@
-<h1 align="center" style="color:#1a73e8;">Hi, I'm Faith Moraa Sitemba</h1>
-<h3 align="center" style="color:#555;">Aspiring IT Professional | Python Beginner | Tech Enthusiast</h3>
+ Hi, I'm Faith Moraa Sitemba  
+ Aspiring IT Professional | Python Beginner |  IT Support Enthusiast
 
-<hr>
+Welcome to my GitHub.  
+I am an early-career IT professional with strong interest in networking, system support, troubleshooting, and hands-on technical work.  
+I enjoy diagnosing issues, assisting users, and building simple IT-related projects as I grow my skills.
 
-<h3 style="color:#1a73e8;">About Me</h3>
+---
 
-<p style="color:#333; font-size: 15px;">
-I am an aspiring IT professional passionate about technology, problem-solving, and continuous learning.
-I enjoy exploring programming, building simple but meaningful projects, and improving my technical skills every day.
-I recently started learning Python, Git, and GitHub, and this profile reflects my journey as I grow in the tech world.
-</p>
+ Portfolio Website
+You can view my complete portfolio website here:  
+https://faithsitemba.github.io
 
-<hr>
+It includes my background, skills, experience, and ongoing learning journey.
 
-<h3 style="color:#1a73e8;">Technologies & Tools</h3>
+---
 
-<ul style="color:#333; font-size: 15px;">
-  <li>Python (Beginner)</li>
-  <li>Networking – Routers, Switches, WiFi Configuration</li>
-  <li>IT Support & Troubleshooting</li>
-  <li>Databases – SQL, Oracle (Basics)</li>
-  <li>Tools – VS Code, Git, GitHub, Wireshark, Packet Tracer</li>
-  <li>Operating Systems – Windows, Linux (Beginner)</li>
-</ul>
+ Download My CV  
+Download my updated CV using the link below:  
 
-<hr>
+*Download CV (PDF)**  
+https://raw.githubusercontent.com/faithsitemba/faithsitemba.github.io/main/faith%20moraa%20sitemba%20cv.pdf
 
-<h3 style="color:#1a73e8;">My Projects</h3>
 
-<p>
-<a href="https://github.com/faithsitemba/FAITH_SITEMBA-PORTFOLIO" style="color:#1a73e8; font-weight:bold;">
-FAITH_SITEMBA-PORTFOLIO
-</a><br>
-An interactive Python portfolio program that runs in the terminal and displays my background, skills, and experience.
-</p>
 
-<hr>
+ About Me
+- Aspiring IT professional building foundational experience in system support and networking.  
+- Growing Python skills for automation and simple tool development.  
+- Interested in system administration, network configuration, and technical troubleshooting.  
+- Focused on building real projects that reflect my learning progress and practical growth.
 
-<h3 style="color:#1a73e8;">More Updates Coming Soon</h3>
 
-<p style="color:#333; font-size: 15px;">
-I will continue updating this GitHub profile as I learn new technologies, improve my coding skills,
-and build more projects. Feel free to check back anytime to see my progress.
-</p>
 
-<hr>
+ Education
+- **Bachelor of Information Technology** – JKUAT (2022–2025)  
+- **Diploma in Information Technology (Credit)** – JKUAT (2019–2022)  
+- **KCSE** – St Andrew Kaggwa Girls  
 
-<h3 style="color:#1a73e8;">Contact Me</h3>
+---
 
-<p style="color:#333; font-size: 15px;">
-<b>Email:</b> sitemba22@gmail.com <br>
-<b>Phone:</b> +254 795 023 150 <br>
-<b>Location:</b> Nairobi, Kenya
-</p>
+ Skills and Tools
 
-<hr>
+ Technical Skills
+- IT Support and Troubleshooting    
+- Python (Beginner)  
+- Database Basics (SQL, Oracle)  
+- Windows and Linux Fundamentals  
 
-<p align="center" style="color:#1a73e8; font-size:16px;">
-"Every expert started as a beginner."
-</p>
+ Tools
+- VS Code  
+- Git and GitHub      
+- SQL  
+  
+---
+
+ Current Learning Journey
+I am actively working to improve my skills in:  
+- Python scripting and automation  
+- Subnetting and network fundamentals  
+- GitHub workflow and version control  
+- Linux system administration  
+- Building practical IT support and networking projects  
+
+---
+
+ Projects
+
+ Python Portfolio Program  
+A simple Python script that prints my background, skills, and contact information.  
+Repository:  
+https://github.com/faithsitemba/FAITH_SITEMBA-PORTFOLIO
+
+More projects involving IT support tools, Python scripts, and networking utilities will be added over time.
+
+---
+
+ Contact Information
+- **Email:** sitemba22@gmail.com  
+- **Phone:** +254 795 023 150  
+- **Location:** Nairobi, Kenya  
+
+
+
+Every expert started as a beginner.
+Thank you for visiting my GitHub profile.
